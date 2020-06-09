@@ -108,7 +108,7 @@ class App extends React.Component {
           userInfo={this.state.userInfo}
         />
 
-        {/* Users component */}
+       
       </div>
     );
    }
